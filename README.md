@@ -1,1 +1,1 @@
-#Projeto desenvolvido para a disciplina de Projeto de Algoritmos
+# Algoritmos Bubble sort, Insertion sort, Selection sort e Shell Sort.
